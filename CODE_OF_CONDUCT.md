@@ -18,6 +18,18 @@ Examples of unacceptable behavior:
 
 ## Enforcement
 
-Instances of abusive behavior may be reported by contacting the project team at [your-email@example.com].
+Instances of abusive behavior may be reported by contacting the project team at vyshnavikurapati90@gmail.com
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+
+# Contributing Guidelines
+
+Thank you for considering contributing to this project!
+
+## How to Contribute
+
+1. **Fork** this repository.
+2. **Clone** the forked repository to your local machine.
+3. Create a **new branch**:
+   ```bash
+   git checkout -b your-branch-name
